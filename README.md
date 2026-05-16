@@ -28,29 +28,16 @@ Tor-based crawler → multi-layer analysis (regex + fuzzy matching + context-awa
 
 ---
 
-### [JobForge](https://github.com/yusufoemerkaratas/jobforge) *(in progress)*
-> Distributed job processing and retry platform
+### 🛠️ Tech Stack & Tools
 
-Job queue → async worker pool → automatic retry with backoff → dead-letter queue → Prometheus metrics → Grafana dashboard.
+**Backend & Architecture**
+Python • FastAPI • PostgreSQL • Alembic • Redis • Celery • RESTful APIs • Asynchronous I/O • C/C++
 
-`Python` `Celery` `Redis` `FastAPI` `PostgreSQL` `Prometheus` `Grafana` `Docker Compose`
+**Data Science, NLP & Computer Vision**
+PyTorch • OpenCV • Tesseract OCR • NLP (spaCy/Transformers) • Regex • Fuzzy Matching • Named Entity Recognition (NER) • Data Pipelines
 
----
-
-##  Stack
-
-| Area | Technologies |
-|---|---|
-| **Languages** | Python · TypeScript · Java · C |
-| **Backend** | FastAPI · Quarkus · SQLAlchemy · Alembic · Celery |
-| **APIs** | REST API · JSON · OpenAPI/Swagger |
-| **Databases** | PostgreSQL (JSONB) · Redis |
-| **DevOps** | Docker · Docker Compose · GitHub Actions · GitLab CI |
-| **NLP / ML** | spaCy · Regex · Fuzzy Matching · LLM APIs |
-| **Observability** | Prometheus · Grafana |
-
----
-
+**DevOps & Observability**
+Docker • Linux/Ubuntu • Git/GitHub Actions • Bash Scripting • Prometheus • Grafana
 ## Languages
 
 | Language | Level |
