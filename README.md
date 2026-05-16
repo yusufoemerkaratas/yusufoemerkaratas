@@ -4,7 +4,7 @@
 
 > I build backend systems that process messy real-world data —  
 extracting structure from chaos, detecting what shouldn't be there,  
-and making distributed systems reliable under failure. Based in Würzburg 🇩🇪 — looking for **Werkstudent / Pflichtpraktikum** positions.
+and making distributed systems reliable under failure. Based in Würzburg 🇩🇪.
 
 ---
 
