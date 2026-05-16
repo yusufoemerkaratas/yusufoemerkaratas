@@ -1,53 +1,54 @@
 # Yusuf Ömer Karataş
 
-**Informatik Student @ THWS Würzburg** 
+**Informatik Student @ THWS Würzburg**
 
 > I build backend systems that process messy real-world data —  
-extracting structure from chaos, detecting what shouldn't be there,  
-and making distributed systems reliable under failure. Based in Würzburg 🇩🇪.
+> turning unstructured inputs into usable signals, detecting what should not be there,  
+> and designing systems that stay reliable as complexity grows.
 
 ---
 
-##  Currently Building
+## Currently Building
 
 ### [EntityFlow](https://github.com/yusufoemerkaratas/entityflow)
-> NLP-based entity extraction system — regex baseline → spaCy → LLM fallback pipeline
+> OCR-first multimodal entity extraction workspace — text and image ingestion → regex / spaCy / LLM extraction → review workflow
 
-Upload unstructured text or PDF → extract structured entities → compare extraction methods → human review loop.
+Upload text or images → extract structured entities → compare extraction methods → human review loop.
 
-`Python` `spaCy` `FastAPI` `PostgreSQL` `React` `TypeScript` `Docker` `GitHub Actions`
-
----
+`Python` `FastAPI` `PostgreSQL` `spaCy` `OCR` `React` `TypeScript` `Docker` `GitHub Actions`
 
 ### [Datenlecks](https://github.com/yusufoemerkaratas/KI-gest-tztes-System-zur-fr-hzeitigen-Erkennung-von-Datenlecks)
 > Proactive data leak detection system — monitors darknet sources for exposed credentials
 
-Tor-based crawler → multi-layer analysis (regex + fuzzy matching + context-aware filtering) → FastAPI → PostgreSQL JSONB → Docker Compose.
+Tor-based crawling → multi-layer filtering and matching → FastAPI → PostgreSQL JSONB → Docker Compose.
 
 `Python` `FastAPI` `PostgreSQL` `Tor` `Fuzzy Matching` `SQLAlchemy` `Alembic` `Docker`
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-**Backend & Architecture**
-Python • FastAPI • PostgreSQL • Alembic • Redis • Celery • RESTful APIs • Asynchronous I/O • C/C++
+**Backend & Architecture**  
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Redis` `Celery` `REST APIs` `Async I/O`
 
-**Data Science, NLP & Computer Vision**
-PyTorch • OpenCV • Tesseract OCR • NLP (spaCy/Transformers) • Regex • Fuzzy Matching • Named Entity Recognition (NER) • Data Pipelines
+**Data & Extraction**  
+`spaCy` `Regex` `Fuzzy Matching` `NER` `OpenCV` `Tesseract OCR` `PyTorch` `Data Pipelines`
 
-**DevOps & Observability**
-Docker • Linux/Ubuntu • Git/GitHub Actions • Bash Scripting • Prometheus • Grafana
+**DevOps & Workflow**  
+`Docker` `Linux` `Git` `GitHub Actions` `Bash` `Prometheus` `Grafana`
+
+---
+
 ## Languages
 
-| Language | Level |
-|---|---|
-| Türkisch | Native |
-| Deutsch | C1  |
+| Language | Proficiency |
+| --- | --- |
+| Turkish | Native |
+| German | C1 |
 | English | B2 |
 
 ---
 
-##  Contact
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/yusuf-ömer-karatas-330952219) · yusufoemerkaratas@study.thws.de
