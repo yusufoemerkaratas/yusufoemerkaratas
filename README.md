@@ -17,7 +17,7 @@ Upload text or images → extract structured entities → compare extraction met
 
 `Python` `FastAPI` `PostgreSQL` `spaCy` `OCR` `React` `TypeScript` `Docker` `GitHub Actions`
 
-### [Datenlecks](https://github.com/yusufoemerkaratas/KI-gest-tztes-System-zur-fr-hzeitigen-Erkennung-von-Datenlecks)
+### [Dataleaks](https://github.com/yusufoemerkaratas/KI-gest-tztes-System-zur-fr-hzeitigen-Erkennung-von-Datenlecks)
 > Proactive data leak detection system — monitors darknet sources for exposed credentials
 
 Tor-based crawling → multi-layer filtering and matching → FastAPI → PostgreSQL JSONB → Docker Compose.
